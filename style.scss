@@ -1,0 +1,67 @@
+.header {
+  width: 1280px;
+  height: 450px;
+  position: absolute;
+  background-image: url(images/1.jpg);
+}
+.text1 {
+  color: azure;
+  font-family: Arial;
+  padding-top: 195px;
+  padding-bottom: 100px;
+  margin-left: 100px;
+}
+.text2 {
+  opacity: 1;
+  color: azure;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 20px;
+  font-family: Arial;
+}
+.menu {
+  width: 800px;
+  height: 850px;
+  position: absolute;
+  display: inline;
+  margin-top: 350px;
+  margin-left: 100px;
+  background-color:#3d5eb4;
+  opacity: 0.9;
+}
+.social1 {
+  position: absolute;
+  display: inline;
+  margin-top: 500px;
+  margin-left: 950px;
+}
+.social2 {
+  position: absolute;
+  display: inline;
+  margin-top: 500px;
+  margin-left: 1000px;
+}
+
+.social3 {
+  position: absolute;
+  display: inline;
+  margin-top: 500px;
+  margin-left: 1050px;
+}
+.photo {
+   position: absolute;
+   margin-top: 670px;
+   margin-left: 900px;
+ }
+.footer {
+  width: 1280px;
+  height: 80px;
+  position: absolute;
+  margin-top: 1205px;
+  background-color: #3d5eb4;
+}
+.text3 {
+  margin-left: 20px;
+  color: azure;
+  font-family: Arial;
+}
